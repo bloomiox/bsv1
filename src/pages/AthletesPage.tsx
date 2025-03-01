@@ -25,41 +25,35 @@ const athletes: Athlete[] = [
     category: "Women's Singles",
     nationality: 'Poland',
     achievements: [
-      '4x Grand Slam Champion',
-      'World No. 1',
-      'French Open Champion',
-      'US Open Champion'
+      'Polish Open Finalist',
+      'Challenger Series Winner'
     ],
     rankings: [
-      'Current WTA Ranking: #1',
-      '2022 Year-End: #1',
-      '2023 Year-End: #1'
+      'Current WTA Ranking: #185',
+      'Career-High: #150'
     ],
-    partnerships: ['Nike', 'Tecnifibre', 'Rolex', 'Visa'],
+    partnerships: ['Local Tennis Club'],
     socialMedia: {
-      followers: '1.2M',
+      followers: '12K',
       handle: '@sofia_mtz'
     }
   },
   {
     name: 'Marcus Thompson',
     sport: 'Tennis',
-    category: "Women's Singles",
+    category: "Men's Singles",
     nationality: 'United States',
     achievements: [
-      'US Open Champion',
-      'WTA Finals Runner-up',
-      'French Open Finalist',
-      'Youngest Top 10 Player'
+      'College Tennis Champion',
+      'ITF Futures Winner'
     ],
     rankings: [
-      'Current WTA Ranking: #3',
-      '2023 Year-End: #3',
-      'Career-High: #3'
+      'Current ATP Ranking: #320',
+      'Career-High: #290'
     ],
-    partnerships: ['New Balance', 'Head', 'American Express', 'UPS'],
+    partnerships: ['Local Sports Store'],
     socialMedia: {
-      followers: '980K',
+      followers: '8K',
       handle: '@marcus_t23'
     }
   },
@@ -69,19 +63,16 @@ const athletes: Athlete[] = [
     category: "Men's Singles",
     nationality: 'Spain',
     achievements: [
-      'Wimbledon Champion',
-      'US Open Champion',
-      'Youngest World No. 1',
-      'Miami Open Champion'
+      'Junior Nationals Finalist',
+      'Regional Tennis Champion'
     ],
     rankings: [
-      'Current ATP Ranking: #2',
-      '2023 Year-End: #2',
-      'Career-High: #1'
+      'Current ATP Ranking: #410',
+      'Career-High: #390'
     ],
-    partnerships: ['Nike', 'Babolat', 'Rolex', 'BMW'],
+    partnerships: ['Local Equipment Brand'],
     socialMedia: {
-      followers: '2.1M',
+      followers: '5K',
       handle: '@diego_ramirez'
     }
   },
@@ -91,19 +82,16 @@ const athletes: Athlete[] = [
     category: "Women's Singles",
     nationality: 'Belarus',
     achievements: [
-      'Australian Open Champion',
-      'WTA Finals Champion',
-      'US Open Finalist',
-      'Multiple Grand Slam SF'
+      'Regional Tournament Winner',
+      'Challenger Semifinalist'
     ],
     rankings: [
-      'Current WTA Ranking: #2',
-      '2023 Year-End: #2',
-      'Career-High: #2'
+      'Current WTA Ranking: #250',
+      'Career-High: #240'
     ],
-    partnerships: ['Wilson', 'Nike', 'Rolex'],
+    partnerships: ['Local Apparel Brand'],
     socialMedia: {
-      followers: '850K',
+      followers: '9K',
       handle: '@elena_popov'
     }
   },
@@ -113,19 +101,16 @@ const athletes: Athlete[] = [
     category: "Quarterback",
     nationality: 'United States',
     achievements: [
-      'Super Bowl Champion',
-      'NFL MVP',
-      'Pro Bowl Selection',
-      'Offensive Player of the Year'
+      'College MVP',
+      'Regional Championship Winner'
     ],
     rankings: [
-      'NFL QB Rating: #1',
-      '2023 Season: MVP Runner-up',
-      'Career TDs: 350+'
+      'College QB Rating: #25',
+      'Career Touchdowns: 30'
     ],
-    partnerships: ['Nike', 'Gatorade', 'Ford', 'State Farm'],
+    partnerships: ['Local Car Dealership'],
     socialMedia: {
-      followers: '1.5M',
+      followers: '15K',
       handle: '@wilson_qb'
     }
   },
@@ -135,19 +120,16 @@ const athletes: Athlete[] = [
     category: "Indoor",
     nationality: 'Brazil',
     achievements: [
-      'Olympic Gold Medalist',
-      'World Championship MVP',
-      'Nations League Champion',
-      'Best Spiker Award'
+      'State League Champion',
+      'Youth Nationals Finalist'
     ],
     rankings: [
-      'World Ranking: #1 Spiker',
-      '2023 Season: MVP',
-      'Career Points: 5000+'
+      'Regional Ranking: #5 Spiker',
+      'Career Points: 800'
     ],
-    partnerships: ['Asics', 'Mikasa', 'Red Bull', 'Banco do Brasil'],
+    partnerships: ['Local Beverage Company'],
     socialMedia: {
-      followers: '620K',
+      followers: '6K',
       handle: '@maria.santos'
     }
   }
@@ -160,19 +142,16 @@ const additionalAthletes: Athlete[] = [
     category: "Artistic",
     nationality: 'Germany',
     achievements: [
-      'Olympic All-Around Gold',
-      'World Champion Balance Beam',
-      'European Championship Winner',
-      '3x National Champion'
+      'National Junior Champion',
+      'Regional All-Around Winner'
     ],
     rankings: [
-      'World Ranking: #1 All-Around',
-      '2023 Season: 5 Gold Medals',
-      'Perfect 10s: 8'
+      'National Junior Ranking: #3',
+      'Regional Ranking: #1'
     ],
-    partnerships: ['Adidas', 'Deutsche Bank', 'Lufthansa'],
+    partnerships: ['Local Gymnastics Center'],
     socialMedia: {
-      followers: '780K',
+      followers: '7K',
       handle: '@emma_turns'
     }
   },
@@ -182,19 +161,16 @@ const additionalAthletes: Athlete[] = [
     category: "Midfielder",
     nationality: 'Brazil',
     achievements: [
-      'Copa America Champion',
-      'Champions League Winner',
-      'La Liga Best Midfielder',
-      'Olympic Gold Medalist'
+      'Youth League Champion',
+      'Regional Cup Winner'
     ],
     rankings: [
-      'FIFA Ranking: #8',
-      '2023 Season: 15 Assists',
-      'International Caps: 65'
+      'Youth National Ranking: Top 50',
+      'Regional Team Starting Midfielder'
     ],
-    partnerships: ['Nike', 'Banco do Brasil', 'Guaraná Antarctica'],
+    partnerships: ['Local Sports Academy'],
     socialMedia: {
-      followers: '2.8M',
+      followers: '10K',
       handle: '@lucas_silva10'
     }
   },
@@ -204,19 +180,16 @@ const additionalAthletes: Athlete[] = [
     category: "Singles",
     nationality: 'Japan',
     achievements: [
-      'World Champion',
-      'Grand Prix Final Gold',
-      'Four Continents Champion',
-      'National Champion'
+      'National Junior Championship Top 5',
+      'Regional Competition Winner'
     ],
     rankings: [
-      'ISU World Ranking: #1',
-      '2023 Season: 3 Golds',
-      'Personal Best: 223.40'
+      'National Junior Ranking: #4',
+      'Regional Ranking: #2'
     ],
-    partnerships: ['Uniqlo', 'Toyota', 'Seiko'],
+    partnerships: ['Local Ice Rink'],
     socialMedia: {
-      followers: '1.1M',
+      followers: '6.5K',
       handle: '@yuki_skates'
     }
   },
@@ -226,19 +199,16 @@ const additionalAthletes: Athlete[] = [
     category: "400m Hurdles",
     nationality: 'Kenya',
     achievements: [
-      'Olympic Silver Medalist',
-      'World Champion',
-      'African Record Holder',
-      'Diamond League Winner'
+      'National Youth Champion',
+      'Regional Athletics Meet Winner'
     ],
     rankings: [
-      'World Ranking: #2',
-      '2023 Season: 6 Wins',
-      'Personal Best: 52.16s'
+      'National Youth Ranking: #2',
+      'Regional Ranking: #1'
     ],
-    partnerships: ['Nike', 'Safaricom', 'Kenya Airways'],
+    partnerships: ['Local Running Club'],
     socialMedia: {
-      followers: '450K',
+      followers: '4K',
       handle: '@aisha_runs'
     }
   },
@@ -248,19 +218,16 @@ const additionalAthletes: Athlete[] = [
     category: "Downhill",
     nationality: 'Austria',
     achievements: [
-      'Olympic Downhill Gold',
-      'World Cup Overall Winner',
-      '5x World Cup Race Winner',
-      'World Champion'
+      'Regional Ski Race Winner',
+      'National Junior Championship Participant'
     ],
     rankings: [
-      'FIS Ranking: #1 Downhill',
-      '2023 Season: Crystal Globe',
-      'Career Wins: 25'
+      'Regional Ranking: #3',
+      'National Junior Ranking: Top 20'
     ],
-    partnerships: ['Atomic', 'Red Bull', 'Raiffeisen'],
+    partnerships: ['Local Ski Shop'],
     socialMedia: {
-      followers: '680K',
+      followers: '5.5K',
       handle: '@weber_ski'
     }
   },
@@ -270,41 +237,38 @@ const additionalAthletes: Athlete[] = [
     category: "Road Racing",
     nationality: 'France',
     achievements: [
-      'Tour de France Winner',
-      'World Road Race Champion',
-      'Olympic Time Trial Gold',
-      'European Champion'
+      'Regional Cycling Race Winner',
+      'National Junior Championship Participant'
     ],
     rankings: [
-      'UCI Ranking: #2',
-      '2023 Season: 12 Wins',
-      'Grand Tours: 3 Wins'
+      'Regional Ranking: #2',
+      'National Junior Ranking: Top 15'
     ],
-    partnerships: ['Specialized', 'AG2R', 'Garmin'],
+    partnerships: ['Local Bike Shop'],
     socialMedia: {
-      followers: '520K',
+      followers: '3.5K',
       handle: '@sophie_cycles'
     }
-  },
+  }
+];
+
+const moreAthletes: Athlete[] = [
   {
     name: 'Miguel Torres',
     sport: 'Boxing',
     category: "Lightweight",
     nationality: 'Mexico',
     achievements: [
-      'WBC World Champion',
-      'Olympic Gold Medalist',
-      '30-0 Professional Record',
-      'Ring Magazine Fighter of the Year'
+      'Regional Golden Gloves Winner',
+      'National Amateur Tournament Participant'
     ],
     rankings: [
-      'World Ranking: #1 Lightweight',
-      '2023 Record: 4-0',
-      'KO Percentage: 80%'
+      'Regional Amateur Ranking: #1',
+      'National Amateur Ranking: Top 10'
     ],
-    partnerships: ['Everlast', 'Corona', 'Tecate'],
+    partnerships: ['Local Boxing Gym'],
     socialMedia: {
-      followers: '1.5M',
+      followers: '11K',
       handle: '@miguel_boxing'
     }
   },
@@ -314,19 +278,16 @@ const additionalAthletes: Athlete[] = [
     category: "Left Wing",
     nationality: 'Poland',
     achievements: [
-      'Champions League Winner',
-      'European Championship MVP',
-      'World Championship Silver',
-      'National Cup Winner'
+      'Regional League Top Scorer',
+      'National Junior Championship Participant'
     ],
     rankings: [
-      'EHF Ranking: #3',
-      '2023 Season: Top Scorer',
-      'International Goals: 450+'
+      'Regional League Ranking: #1 Left Wing',
+      'National Junior Ranking: Top 20'
     ],
-    partnerships: ['Hummel', 'PGE', 'Plus'],
+    partnerships: ['Local Handball Club'],
     socialMedia: {
-      followers: '290K',
+      followers: '2.5K',
       handle: '@anna_handball'
     }
   },
@@ -336,15 +297,12 @@ const additionalAthletes: Athlete[] = [
     category: "Professional",
     nationality: 'Israel',
     achievements: [
-      'Major Championship Winner',
-      'Ryder Cup Champion',
-      'European Tour Winner',
-      'World Top 10 Player'
+      'Regional Amateur Champion',
+      'National Amateur Tournament Participant'
     ],
     rankings: [
-      'World Golf Ranking: #8',
-      '2023 Season: 2 Wins',
-      'Career Earnings: $25M+'
+      'Regional Amateur Ranking: #1',
+      'National Amateur Ranking: Top 10'
     ],
     partnerships: ['TaylorMade', 'Rolex', 'Bank Hapoalim'],
     socialMedia: {
@@ -358,44 +316,35 @@ const additionalAthletes: Athlete[] = [
     category: "Individual",
     nationality: 'Bulgaria',
     achievements: [
-      'Olympic All-Around Gold',
-      'World Champion Ribbon',
-      '3x European Champion',
-      'World Cup Series Winner'
+      'National Junior Champion',
+      'Regional Competition Winner'
     ],
     rankings: [
-      'FIG Ranking: #1',
-      '2023 Season: 8 Golds',
-      'Perfect Scores: 12'
+      'National Junior Ranking: #1',
+      'Regional Ranking: #1'
     ],
-    partnerships: ['Pastorelli', 'Bulgarian Air', 'Fibank'],
+    partnerships: ['Local Gymnastics Studio'],
     socialMedia: {
-      followers: '420K',
+      followers: '4.2K',
       handle: '@nina_rg'
     }
-  }
-];
-
-const moreAthletes: Athlete[] = [
+  },
   {
     name: 'Alex Chen',
     sport: 'Basketball',
     category: "Point Guard",
     nationality: 'China',
     achievements: [
-      'NBA All-Star',
-      'Most Improved Player',
-      'Olympic Silver Medalist',
-      'Asian Games MVP'
+      'College League MVP',
+      'Regional Tournament Winner'
     ],
     rankings: [
-      'NBA Assists: #3',
-      '2023 Season: All-NBA Third Team',
-      'Career Triple-Doubles: 25'
+      'College League Assists Leader',
+      'Regional Ranking: Top 5'
     ],
-    partnerships: ['Under Armour', 'Gatorade', 'Huawei'],
+    partnerships: ['Local Sports Equipment Store'],
     socialMedia: {
-      followers: '1.1M',
+      followers: '11K',
       handle: '@chen_hoops'
     }
   },
@@ -405,19 +354,16 @@ const moreAthletes: Athlete[] = [
     category: "Flanker",
     nationality: 'Ireland',
     achievements: [
-      'Six Nations Champion',
-      'World Cup Finalist',
-      'European Cup Winner',
-      'Player of the Year'
+      'College League Player of the Year',
+      'Regional Tournament Winner'
     ],
     rankings: [
-      'World Rugby Ranking: #2',
-      '2023 Season: Team Captain',
-      'International Caps: 85'
+      'College League Top Tackler',
+      'Regional Ranking: Top 3'
     ],
-    partnerships: ['Canterbury', 'Guinness', 'Aer Lingus'],
+    partnerships: ['Local Pub'],
     socialMedia: {
-      followers: '420K',
+      followers: '4.2K',
       handle: '@liam_oconnor'
     }
   },
@@ -427,19 +373,16 @@ const moreAthletes: Athlete[] = [
     category: "Forward",
     nationality: 'Italy',
     achievements: [
-      'Champions League Winner',
-      'Serie A Top Scorer',
-      'European Championship Winner',
-      'FIFA Best Player Nominee'
+      'Youth League Top Scorer',
+      'Regional Tournament Winner'
     ],
     rankings: [
-      'FIFA Ranking: #5',
-      '2023 Season: 30 Goals',
-      'International Goals: 45'
+      'Youth League Top Scorer',
+      'Regional Ranking: Top 5'
     ],
-    partnerships: ['Puma', 'Ferrari', 'Barilla'],
+    partnerships: ['Local Pizzeria'],
     socialMedia: {
-      followers: '380K',
+      followers: '3.8K',
       handle: '@isabella_f9'
     }
   },
@@ -449,19 +392,16 @@ const moreAthletes: Athlete[] = [
     category: "Pitcher",
     nationality: 'Japan',
     achievements: [
-      'World Series Champion',
-      'Cy Young Award Winner',
-      'All-Star Game MVP',
-      'Perfect Game Achievement'
+      'College League MVP Pitcher',
+      'Regional Tournament Winner'
     ],
     rankings: [
-      'MLB ERA Leader',
-      '2023 Season: 22 Wins',
-      'Career Strikeouts: 2500+'
+      'College League ERA Leader',
+      'Regional Ranking: Top 3'
     ],
-    partnerships: ['Mizuno', 'Asahi', 'JAL'],
+    partnerships: ['Local Sports Bar'],
     socialMedia: {
-      followers: '950K',
+      followers: '9.5K',
       handle: '@kai_t18'
     }
   },
@@ -471,19 +411,16 @@ const moreAthletes: Athlete[] = [
     category: "Freestyle",
     nationality: 'Australia',
     achievements: [
-      'Olympic Gold Medalist',
-      'World Record Holder',
-      'Commonwealth Games Champion',
-      '5x World Champion'
+      'National Youth Champion',
+      'Regional Meet Winner'
     ],
     rankings: [
-      'World Ranking: #1 100m Free',
-      '2023 Season: 3 World Records',
-      'Career Medals: 25+'
+      'National Youth Ranking: #1 100m Free',
+      'Regional Ranking: #1'
     ],
-    partnerships: ['Speedo', 'Omega', 'Australian Sports Commission'],
+    partnerships: ['Local Pool'],
     socialMedia: {
-      followers: '890K',
+      followers: '8.9K',
       handle: '@sarah_swims'
     }
   },
@@ -493,19 +430,16 @@ const moreAthletes: Athlete[] = [
     category: "Center",
     nationality: 'Russia',
     achievements: [
-      'Stanley Cup Champion',
-      'NHL All-Star',
-      'World Championship Gold',
-      'Art Ross Trophy Winner'
+      'Youth League MVP',
+      'Regional Tournament Winner'
     ],
     rankings: [
-      'NHL Points Leader',
-      '2023 Season: 105 Points',
-      'Career Goals: 400+'
+      'Youth League Points Leader',
+      'Regional Ranking: Top 3'
     ],
-    partnerships: ['CCM', 'Red Bull', 'Gazprom'],
+    partnerships: ['Local Ice Rink'],
     socialMedia: {
-      followers: '750K',
+      followers: '7.5K',
       handle: '@viktor_hockey'
     }
   }
