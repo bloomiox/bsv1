@@ -20,9 +20,8 @@ const Footer = () => {
   ];
 
   const socialLinks = [
-    { icon: <Instagram className="h-5 w-5" />, href: '#', label: 'Instagram' },
-    { icon: <Twitter className="h-5 w-5" />, href: '#', label: 'Twitter' },
-    { icon: <Linkedin className="h-5 w-5" />, href: '#', label: 'LinkedIn' },
+    { icon: <Instagram className="h-5 w-5" />, href: 'https://www.instagram.com/bloom.sports.agency/', label: 'Instagram' },
+    { icon: <Linkedin className="h-5 w-5" />, href: 'https://www.linkedin.com/company/bloom-sports-agency', label: 'LinkedIn' },
     { icon: <Facebook className="h-5 w-5" />, href: '#', label: 'Facebook' },
   ];
 
