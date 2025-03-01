@@ -18,7 +18,7 @@ const Hero = () => {
           className="w-full h-full object-cover"
         >
           <source
-            src="https://bloom-sports.com/wp-content/uploads/2023/10/Bloom-Sports-Video-1.mp4"
+            src="https://bloom.ba/wp-content/uploads/2018/10/Bloom-Sports-Video-1.mp4"
             type="video/mp4"
           />
         </video>
