@@ -7,7 +7,7 @@ const Athletes = () => {
     {
       name: 'Sofia Martinez',
       sport: 'Tennis',
-      image: 'https://images.unsplash.com/photo-1560012355-acc318f978ff?auto=format&fit=crop&q=80',
+      image: 'https://images.unsplash.com/photo-1542144582-1ba00456b5e3?auto=format&fit=crop&q=80',
       achievements: ['4x Grand Slam Champion', 'World No. 1', 'French Open Champion'],
       partnerships: ['Nike', 'Tecnifibre', 'Rolex', 'Visa'],
     },
