@@ -6,7 +6,7 @@ const About = () => {
 
   const slides = [
     {
-      image: 'https://images.unsplash.com/photo-1551863863-e01bbf274ef6?auto=format&fit=crop&q=80',
+      image: 'https://images.unsplash.com/photo-1595435742656-5272d0b3fa82?auto=format&fit=crop&q=80',
       quote: 'Partnering with Bloom Sports was a game-changer for my career.',
       author: 'Tennis Champion'
     },
@@ -16,7 +16,7 @@ const About = () => {
       author: 'Olympic Medalist'
     },
     {
-      image: 'https://images.unsplash.com/photo-1526676037777-05a232554f77?auto=format&fit=crop&q=80',
+      image: 'https://images.unsplash.com/photo-1551863863-e01bbf274ef6?auto=format&fit=crop&q=80',
       quote: 'Their strategic approach to brand building has opened incredible opportunities.',
       author: 'Professional Athlete'
     }
