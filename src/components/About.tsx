@@ -63,7 +63,7 @@ const About = () => {
               A Boutique Sports Agency Creating Extraordinary Legacies
             </h2>
             <p className="text-xl text-gray-600 mb-12">
-              At Bloom Sports, we take pride in being a boutique sports agency that provides personalized, high-touch representation to a select group of elite athletes. Our intentionally limited roster ensures that each client receives the dedicated attention and bespoke strategies they deserve. We understand that every athlete's journey is unique, and our mission is to empower them to reach their full potential both on and off the field, creating lasting impact through strategic partnerships and innovative brand building.
+              At Bloom Sports, we take pride in being a boutique sports agency that provides personalized, full-service athlete representation. Our intentionally limited group of athletes ensures that each client receives the dedicated attention and bespoke strategies they deserve. We understand that every athlete's journey is unique, and our mission is to empower them to reach their full potential both on and off the field, creating lasting impact through strategic partnerships and innovative brand building.
             </p>
             <div className="grid sm:grid-cols-2 gap-8">
               {values.map((value, index) => (
